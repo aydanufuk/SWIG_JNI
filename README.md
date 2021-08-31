@@ -26,9 +26,15 @@ g++ -shared -o libexample.so -I/usr/lib/jvm/java-11-openjdk-amd64/include  -I/us
 
 
 For Ubuntu JAVA configuration
+
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+
 echo $JAVA_HOME
+
 export PATH=$PATH:$JAVA_HOME/bin
+
 echo $PATH
+
 java -version
+
 R CMD javareconf
