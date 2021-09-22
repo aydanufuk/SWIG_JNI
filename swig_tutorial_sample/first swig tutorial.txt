@@ -1,0 +1,2 @@
+first swig tutorial from the web site of swig
+without time function
