@@ -1,0 +1,1 @@
+this example presents how to use static block of main java file i swig module file
