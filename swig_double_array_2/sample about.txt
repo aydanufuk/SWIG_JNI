@@ -1,0 +1,1 @@
+swig sample about double array using module generated methods with java
