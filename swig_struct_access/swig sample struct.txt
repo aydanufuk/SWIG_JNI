@@ -1,0 +1,1 @@
+swig sample about struct access with array elements
