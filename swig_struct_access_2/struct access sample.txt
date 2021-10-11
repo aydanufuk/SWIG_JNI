@@ -1,0 +1,1 @@
+swig struct access sample about accessing struct elements which can be two-dimensional arrays
