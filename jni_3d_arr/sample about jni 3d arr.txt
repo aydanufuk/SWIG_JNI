@@ -1,0 +1,1 @@
+sample about jni 3d array modification
