@@ -1,0 +1,1 @@
+swig sample about pointer access from struct element
