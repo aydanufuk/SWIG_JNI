@@ -1,0 +1,2 @@
+swig sample about leftshift operator
+c++>>java
