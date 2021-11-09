@@ -11,8 +11,20 @@ struct struct1_T{
 
 static void allocation_show() {
 	struct1_T sp;
-	sp.dyn_arr[0] = 150.0;
-	cout << sp.dyn_arr[0] << endl;
+	
+	for (size_t i = 0; i < 10; i++)
+	{
+		sp.dyn_arr[i] = 10 * i;
+	}
+
+	for (size_t i = 0; i < 10; i++)
+	{
+		cout << sp.dyn_arr[i] << " ";
+	}
+
+	cout << endl;
+	//sp.dyn_arr[0] = 150.0;
+	//cout << sp.dyn_arr[0] << endl;
 }
 
 #endif
