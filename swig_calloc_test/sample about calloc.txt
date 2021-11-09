@@ -1,0 +1,2 @@
+swig example about calloc
+c++>>java
